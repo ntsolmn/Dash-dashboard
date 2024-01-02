@@ -398,6 +398,17 @@ on small devices, paste the mobile query code up in the buttons section and styl
 there.
 */
 
+.upload_data_box{
+  text-align: center;
+  padding: 20px;
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: 5px;
+  background-color: #6b52d2b6;
+  color: #e3e0f1;
+  outline: none;
+  transition: border .24s ease-in-out;
+}
 
 /* Larger than mobile */
 @media (min-width: 400px) {}
